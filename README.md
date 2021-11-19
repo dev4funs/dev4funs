@@ -1,6 +1,20 @@
-### Hi there 👋
+### Hi, I'm Junhan 👋
 
-- 🌱 I’m currently learning Computer Graphics
+I'm a Front-End developer and an indie rock songwriter. 
+
+#### Activities
+
+- 🌱 I’m currently learning **Computer Graphics**
+
+- 📝 I regularly write articles on [dev-4-fun.com](https://dev-4-fun.com)
+
+
+#### Languages
+
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="24"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="24"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24"/></code>
 
 <!--
 **dev4funs/dev4funs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
