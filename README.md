@@ -4,7 +4,7 @@ I'm a Front-End developer and an indie rock songwriter.
 
 #### Activities
 
-- 🌱 I’m currently learning **Computer Graphics**
+- 🌱 I’m currently learning **Computer Graphics** and **algorithm**
 
 - 📝 I regularly write articles on [dev-4-fun.com](https://dev-4-fun.com)
 
