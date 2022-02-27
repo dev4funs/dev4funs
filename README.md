@@ -1,6 +1,6 @@
 ### Hi, I'm Junhan 👋
 
-I'm a Front-End developer and an indie rock songwriter. 
+I'm a software engineer and an indie rock songwriter. 
 
 #### Activities
 
