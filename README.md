@@ -1,10 +1,10 @@
 ### Hi, I'm Junhan 👋
 
-I'm a software engineer and an indie rock songwriter. 
+I'm a Web UI engineer and an Indie rock songwriter. 
 
 #### Activities
 
-- 🌱 I’m currently learning **Human Computer Interaction** and **Web Front End**
+- 🌱 I’m currently learning **Human Computer Interaction**.
 
 - 📝 I regularly write articles on [dev-4-fun.com](https://dev-4-fun.com)
 
