@@ -4,7 +4,7 @@ I'm a software engineer and an indie rock songwriter.
 
 #### Activities
 
-- 🌱 I’m currently learning **Computational Creativity(focus on CC Music)** and **Algorithm**
+- 🌱 I’m currently learning **Human Computer Interaction** and **Web Front End**
 
 - 📝 I regularly write articles on [dev-4-fun.com](https://dev-4-fun.com)
 
