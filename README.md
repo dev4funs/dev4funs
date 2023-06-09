@@ -16,8 +16,6 @@ I'm a Web UI engineer and an Indie rock songwriter.
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="24"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="24" height="24"/></code>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev4funs)](https://github.com/dev4funs/github-readme-stats)
-
 <!--
 **dev4funs/dev4funs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
